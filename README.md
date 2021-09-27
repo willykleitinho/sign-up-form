@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [on Github Pages](https://your-live-site-url.com)
+- Solution URL: [on Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-2RAFEooQO)
+- Live Site URL: [on Github Pages](https://willykleitinho.github.io/sign-up-form/)
 
 ## My process
 
